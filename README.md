@@ -1,6 +1,6 @@
 #To do list  
 
-I built this during a Cognitive Class Python for Data Science Module 3 while learning OOP classes
+I built this during a Cognitive Class Python for Data Science Module 3 while learning OOP classes.
 
 ##What it does
 A user can:
