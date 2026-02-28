@@ -19,7 +19,7 @@ A user can:
 
 ![Menu](Menu.png)
 
-![Tasks](tasks.png)
+![Tasks](task.png)
 
 ![View](view.png)
 
