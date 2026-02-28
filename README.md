@@ -21,7 +21,7 @@ A user can:
 
 ![Tasks](tasks.png)
 
-![View](View.png)
+![View](view.png)
 
 ![Complete](complete.png)
 
