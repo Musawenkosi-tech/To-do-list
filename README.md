@@ -16,15 +16,18 @@ A user can:
 - "print(f"{i}. {task}")" for pretty printing
 
 ##Demo 
+
 ![Menu](Menu.png)
 
 ![Tasks](tasks.png)
 
+![View](View.png)
+
 ![Complete](complete.png)
 
-![Exit](Exit.png)
+![Exit](exit.png)
 
- 
+Musa Mhlambi: IT student from Gauteng aspiring to be a data engineer
 
 
 
